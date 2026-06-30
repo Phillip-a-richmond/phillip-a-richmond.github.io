@@ -1,5 +1,6 @@
-# phillip-a-richmond.github.io
-personal website
+# Personal Website
+
+Last updated: 2026-06-30
 
 Built using:
 
